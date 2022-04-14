@@ -1,0 +1,3 @@
+# social_media_platform
+
+Hello! My name is Prisha Maiti, and I am a developer, music artist, and writer. I like to create things that help people and make both myself and others happy. The goal of this particular social media platform I'm working on is designed to allow users to find nearby people to interact with based on selected filters such as the area, activity, and choice of contact (email, phone, etc.).
